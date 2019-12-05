@@ -1,5 +1,5 @@
 # Time-Seperator
-A program that seperates two given times into several ranges
+A program that seperates two given times into several ranges written in C#
 <p>In this program, we take two time intervals from the user: <br>
 Start Time and End Time. <br>
 The program will seperate the user's input into the ranges defined in the ranges array and will resul the output.<br>
