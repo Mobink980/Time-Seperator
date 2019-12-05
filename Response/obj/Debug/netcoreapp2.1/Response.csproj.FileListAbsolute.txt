@@ -1,0 +1,11 @@
+E:\programs\Visual Studio\Response\bin\Debug\netcoreapp2.1\Response.deps.json
+E:\programs\Visual Studio\Response\bin\Debug\netcoreapp2.1\Response.runtimeconfig.json
+E:\programs\Visual Studio\Response\bin\Debug\netcoreapp2.1\Response.runtimeconfig.dev.json
+E:\programs\Visual Studio\Response\bin\Debug\netcoreapp2.1\Response.dll
+E:\programs\Visual Studio\Response\bin\Debug\netcoreapp2.1\Response.pdb
+E:\programs\Visual Studio\Response\obj\Debug\netcoreapp2.1\Response.csprojAssemblyReference.cache
+E:\programs\Visual Studio\Response\obj\Debug\netcoreapp2.1\Response.csproj.CoreCompileInputs.cache
+E:\programs\Visual Studio\Response\obj\Debug\netcoreapp2.1\Response.AssemblyInfoInputs.cache
+E:\programs\Visual Studio\Response\obj\Debug\netcoreapp2.1\Response.AssemblyInfo.cs
+E:\programs\Visual Studio\Response\obj\Debug\netcoreapp2.1\Response.dll
+E:\programs\Visual Studio\Response\obj\Debug\netcoreapp2.1\Response.pdb
